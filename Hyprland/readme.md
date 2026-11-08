@@ -28,8 +28,7 @@ The goal is simple: keep the configuration organized, reproducible, and easy to 
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github.com/user-attachments/assets/b9681ec2-c03d-4ddd-86bf-7aa023a81f6c" />
-"/>
+      <img src="https://github.com/user-attachments/assets/b9681ec2-c03d-4ddd-86bf-7aa023a81f6c"/>
     </td>
   </tr>
 </table>
