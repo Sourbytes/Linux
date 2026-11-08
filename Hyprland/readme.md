@@ -15,21 +15,22 @@ The goal is simple: keep the configuration organized, reproducible, and easy to 
       <img src="https://github.com/user-attachments/assets/a905cbe2-186f-47e0-972d-0aa1672c53d9 "width="100%" alt="Hyprland Screenshot 1"/>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/067edc3f-86f6-43ea-850b-241f059a75e6" />
-" width="100%" alt="Hyprland Screenshot 2"/>
+      <img src="https://github.com/user-attachments/assets/067edc3f-86f6-43ea-850b-241f059a75e6 "width="100%" alt="Hyprland Screenshot 2"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="2026-11-09-011446_hyprshot.png" width="100%" alt="Hyprland Screenshot 3"/>
+      <img src="https://github.com/user-attachments/assets/fafdeb6f-4ada-42d3-aa95-2cdef6718877 "width="100%" alt="Hyprland Screenshot 2" />
+"/>
     </td>
     <td align="center">
-      <img src="2026-11-09-011503_hyprshot.png" width="100%" alt="Hyprland Screenshot 4"/>
+      <img src="https://github.com/user-attachments/assets/054cd4c4-ec79-4a79-8c2b-52b7b47e75fb "width="100%" alt="Hyprland Screenshot 4"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="2026-11-09-014007_hyprshot.png" width="75%" alt="Hyprland Screenshot 5"/>
+      <img src="https://github.com/user-attachments/assets/b9681ec2-c03d-4ddd-86bf-7aa023a81f6c" />
+"/>
     </td>
   </tr>
 </table>
