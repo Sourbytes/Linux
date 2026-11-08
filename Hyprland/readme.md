@@ -12,8 +12,7 @@ The goal is simple: keep the configuration organized, reproducible, and easy to 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/a905cbe2-186f-47e0-972d-0aa1672c53d9" />
-" width="100%" alt="Hyprland Screenshot 1"/>
+      <img src="https://github.com/user-attachments/assets/a905cbe2-186f-47e0-972d-0aa1672c53d9 "width="100%" alt="Hyprland Screenshot 1"/>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/067edc3f-86f6-43ea-850b-241f059a75e6" />
