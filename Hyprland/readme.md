@@ -36,10 +36,6 @@ Hyprland is the core of this setup. It handles window management, workspaces, an
 
 Without Hyprland, well, there isn't much of a Hyprland configuration to talk about.
 
-Install the package:
-
-sudo apt install hyprland
-
 Note: Package availability depends on your distribution and repositories. Use the appropriate installation method for your system.
 
 
@@ -106,13 +102,7 @@ At minimum, you will need:
 
 Make sure the applications launch correctly before proceeding.
 
-Step 2 — Clone the Repository
-
-Clone this repository
-
-Navigate into the directory:
-
-Step 3 — Back Up Existing Configurations
+Step 2 — Back Up Existing Configurations
 
 Before replacing anything, back up your existing configuration directory.
 
