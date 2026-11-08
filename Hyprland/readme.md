@@ -6,6 +6,37 @@ The goal is simple: keep the configuration organized, reproducible, and easy to 
 
 ---
 
+
+**Screenshots**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="2026-11-09-011335_hyprshot.png" width="100%" alt="Hyprland Screenshot 1"/>
+    </td>
+    <td align="center">
+      <img src="2026-11-09-011357_hyprshot.png" width="100%" alt="Hyprland Screenshot 2"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="2026-11-09-011446_hyprshot.png" width="100%" alt="Hyprland Screenshot 3"/>
+    </td>
+    <td align="center">
+      <img src="2026-11-09-011503_hyprshot.png" width="100%" alt="Hyprland Screenshot 4"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="2026-11-09-014007_hyprshot.png" width="75%" alt="Hyprland Screenshot 5"/>
+    </td>
+  </tr>
+</table>
+
+
+---
+
+
 Overview
 
 This setup is built around Hyprland, a dynamic tiling Wayland compositor.
@@ -106,13 +137,7 @@ At minimum, you will need:
 
 Make sure the applications launch correctly before proceeding.
 
-Step 2 — Clone the Repository
-
-Clone this repository
-
-Navigate into the directory:
-
-Step 3 — Back Up Existing Configurations
+Step 2 — Back Up Existing Configurations
 
 Before replacing anything, back up your existing configuration directory.
 
