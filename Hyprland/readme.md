@@ -1,4 +1,4 @@
-Hyprland Dotfiles
+**Hyprland Dotfiles**
 
 A personal Hyprland configuration repository, maintained primarily as a backup and configuration reference. If you find something useful here and want to use it on your own system, feel free to do so.
 This repository contains my Hyprland setup, including the application launcher, status bar, terminal, shell configuration, notification daemon, themes, and other desktop customizations.
@@ -6,7 +6,7 @@ The goal is simple: keep the configuration organized, reproducible, and easy to 
 
 ---
 
-Overview
+**Overview**
 
 This setup is built around Hyprland, a dynamic tiling Wayland compositor.
 
@@ -26,7 +26,27 @@ Each application has its own configuration, allowing individual components to be
 
 ---
 
-Requirements & Dependencies
+**Screenshots**
+
+<table>
+  <tr>
+    <td><a href="<img width="1920" height="1080" alt="2026-11-09-011335_hyprshot" src="<img width="1920" height="1080" alt="2026-11-09-011357_hyprshot" src="https://github.com/user-attachments/assets/3bb0d050-2a87-4a29-af85-8bed202d705b" />
+" /> src="https://github.com/user-attachments/assets/30a03ba0-7b36-4160-b061-7766ed935638" />
+"><img src="https://github.com/user-attachments/assets/4c114bd9-d5cf-4f4d-93da-a22fb9e3adf1" width="400"></a></td>
+    <td><a href="https://github.com/user-attachments/assets/0fcd03a6-7547-4ea7-bb0c-dc1ca090004a"><img src="https://github.com/user-attachments/assets/0fcd03a6-7547-4ea7-bb0c-dc1ca090004a" width="400"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/user-attachments/assets/f98915fb-dfee-4b9b-8450-f34ce3b40cf1"><img src="https://github.com/user-attachments/assets/f98915fb-dfee-4b9b-8450-f34ce3b40cf1" width="400"></a></td>
+    <td><a href="https://github.com/user-attachments/assets/b3578b39-931c-4c45-963a-c730fa14ebfc"><img src="https://github.com/user-attachments/assets/b3578b39-931c-4c45-963a-c730fa14ebfc" width="400"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><a href="https://github.com/user-attachments/assets/1229ebe4-16f9-477f-a716-cc96c2f25f8a"><img src="https://github.com/user-attachments/assets/1229ebe4-16f9-477f-a716-cc96c2f25f8a" width="400"></a></td>
+  </tr>
+</table>
+
+---
+
+**Requirements & Dependencies**
 
 Before using these dotfiles, make sure the required applications are installed on your system.
 
@@ -85,7 +105,7 @@ The corresponding configuration and styling are included in this repository.
 
 ---
 
-Installation
+**Installation**
 
 Step 1 — Install Dependencies
 
@@ -144,7 +164,7 @@ Not every configuration is universally portable. Some adjustments may be necessa
 
 ---
 
-Themes & Appearance
+**Themes & Appearance**
 
 This repository also includes theme customizations for the applications used in this setup.
 
@@ -163,7 +183,7 @@ If something looks different from the screenshots or expected appearance, check 
 
 ---
 
-Important Notes
+**Important Notes**
 
 - These configurations are primarily maintained for personal backup and restoration.
 - The setup may reflect my personal hardware, software preferences, and workflow.
@@ -176,7 +196,7 @@ A configuration file is supposed to save time, not introduce a new debugging car
 
 ---
 
-Credits
+**Credits**
 
 Thanks to the developers and maintainers of the open-source projects used in this setup.
 
