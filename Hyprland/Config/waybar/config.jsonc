@@ -1,0 +1,79 @@
+{
+    "layer": "top",
+    "modules-left": [
+        "hyprland/workspaces"
+    ],
+    "modules-right": [
+        "network",
+        "cpu",
+        "memory",
+        "pulseaudio",
+        "power-profiles-daemon",
+        "battery",
+        "bluetooth",
+        "custom/wifi",
+        "clock"
+    ],
+    "hyprland/workspaces": {
+        "format": "{icon}",
+        "format-icons": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "9"
+        },
+        "persistent-workspaces": {
+		"*": [1,2,3,4,5,6,7,8,9]
+	}
+    },
+    "network": {
+        "format-wifi": "{bandwidthDownBytes}↓ {bandwidthUpBytes}↑",
+        "format-ethernet": "{bandwidthDownBytes}↓ {bandwidthUpBytes}↑",
+        "format-disconnected": "",
+        "interval": 5
+    },
+    "cpu": {
+        "format": "Cpu: {usage}%"
+    },
+    "memory": {
+        "format": "Mem: {used:0.1f}GB"
+    },
+    "pulseaudio": {
+        "format": "Vol: {volume}%",
+        "format-muted": "Vol: M"
+    },
+    "power-profiles-daemon": {
+      "format": "{icon}",
+      "tooltip-format": "Power profile: {profile}\nDriver: {driver}",
+      "tooltip": true,
+      "format-icons": {
+        "default": "norm",
+        "performance": "turbo",
+        "balanced": "norm",
+        "power-saver": "zzz"
+      }
+    },
+    "battery": {
+        "format": "Juice: {capacity}%"
+    },
+    "bluetooth": {
+        "format": "",
+        "format-connected": "{device_alias}",
+        "format-disabled": "",
+        "tooltip-format": "{controller_alias}\t{controller_address}"
+    },
+    "custom/wifi": {
+        "exec": "nmcli -t -f active,ssid dev wifi | egrep '^yes' | cut -d: -f2",
+        "interval": 5,
+        "format": "{}"
+    },
+    "clock": {
+        "format": "{:%Y-%m-%d %a %I:%M %p}",
+        "on-click": "swaync-client -t -sw"
+    }
+}

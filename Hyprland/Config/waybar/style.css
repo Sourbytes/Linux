@@ -1,0 +1,52 @@
+@import "../Colors/gruvbox-material.css";
+
+* {
+    all: unset;
+    font-family: "JetBrainsMono Nerd Font", monospace;
+}
+
+#battery,
+#power-profiles-daemon
+#network,
+#custom-wifi,
+#cpu,
+#memory,
+#pulseaudio,
+#bluetooth,
+#clock,
+#custom-netspeed {
+    padding: 8px;
+    font-size: 16px;
+}
+
+window#waybar {
+    min-height: 1px;
+}
+
+#workspaces {
+    min-width: 1px;
+    font-size: 14px;
+    padding: 3px 5px;
+    margin: 11px 0;
+    border-radius: 99px;
+}
+
+#workspaces button {
+    background-color: @FFFFFF;
+    color: @FFFFFF;
+    padding: 0px 5px;
+    border-radius: 99px;
+    margin: 0 2px;
+    min-width: 4px;
+}
+
+#workspaces button.active {
+    background-color: @gray;
+    min-width: 1.2rem;
+    transition: none;
+}
+
+#hyprland-window {
+    padding: 0 3px;
+    font-size: 15px;
+}
